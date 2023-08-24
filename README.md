@@ -104,7 +104,7 @@ Date of Birth* <br>
 traveler* <br>
 <textarea name="explain" id="explane" cols="30" rows="10" placeholder="Address"></textarea><br>
 
-<button class="fevorite styled" type="button">confirm<button>
+<button class="fevorite styled" type="button">confirm</button>
         </form>
     </div>
 </body>
